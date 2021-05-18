@@ -35,13 +35,13 @@ Below is a series of step by step instructions that tell you how to get a develo
 Create a local clone of the repository
 
 ```bash
-https://github.com/DanteLentsoe/form-dark-mode.git
+git clone https://github.com/DanteLentsoe/form-dark-mode.git
 ```
 
 Enter the cloned repositories' directory
 
 ```bash
-cd butterfly-frontend
+cd my-app
 ```
 
 Install the projects dependencies
