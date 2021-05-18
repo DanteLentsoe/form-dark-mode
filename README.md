@@ -41,7 +41,7 @@ git clone https://github.com/DanteLentsoe/form-dark-mode.git
 Enter the cloned repositories' directory
 
 ```bash
-cd my-app
+cd form-dark-mode
 ```
 
 Install the projects dependencies
